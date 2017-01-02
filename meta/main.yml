@@ -1,0 +1,18 @@
+---
+galaxy_info:
+  author: ldurand 
+  description: Ansible Roles for Docker container management 
+  company: Adomia 
+
+  license: license (GPLv2, CC-BY, etc)
+  min_ansible_version: 1.2
+
+  platforms:
+  - name: Ubuntu
+    versions:
+    - xenial
+
+  galaxy_tags: 
+  - test
+
+dependencies: []
